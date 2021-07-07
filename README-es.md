@@ -31,8 +31,8 @@ Esta es una solución para el [Profile card component challenge on Frontend Ment
 
 ### Links
 
-- URL para la solución: [Solution page]()
-- URL para probar el sitio: [Github pages]()
+- URL para la solución: [Solution page](https://www.frontendmentor.io/solutions/html-css-dQQct9uEK)
+- URL para probar el sitio: [Github pages](https://caresle.github.io/profile-card-component/)
 
 ## Mi proceso
 
